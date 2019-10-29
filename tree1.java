@@ -1,6 +1,5 @@
  //converting the total triangle in 15 * 15 matrix
-    static int N = 15; 
-      
+        
     // Function for finding maximum sum 
     static int maxSum(int tri[][], int m, int n) 
     { 
