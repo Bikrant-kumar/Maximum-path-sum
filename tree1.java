@@ -1,7 +1,7 @@
  //converting the total triangle in 15 * 15 matrix
 class GFG { 
           
-    static int N = 3; 
+    static int N = 15; 
       
     // Function for finding maximum sum 
     static int maxPathSum(int tri[][], int m, int n) 
