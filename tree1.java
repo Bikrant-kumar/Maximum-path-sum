@@ -1,6 +1,4 @@
  //converting the total triangle in 15 * 15 matrix
-class GFG { 
-          
     static int N = 15; 
       
     // Function for finding maximum sum 
@@ -25,4 +23,4 @@ class GFG {
         // return the top element 
         // which stores the maximum sum 
         return tri[0][0]; 
-    } };
+    }
